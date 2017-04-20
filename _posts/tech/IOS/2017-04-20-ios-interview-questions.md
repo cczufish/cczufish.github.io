@@ -36,6 +36,7 @@ description:
 ARC下：
     2017-04-20 18:51:57.375 Test[30056:1497072] <__NSMallocBlock__: 0x608000051250>
     2017-04-20 18:52:06.999 Test[30056:1497072] <__NSMallocBlock__: 0x608000051250>
+
 MRC下：(按钮点击后崩溃了)
     2017-04-20 18:56:08.819 Test[30148:1503278] <__NSStackBlock__: 0x7fff5ca319f8>
     (lldb) po _block
@@ -96,7 +97,9 @@ name
 8，使用快速枚举迭代一个可变数组时需要注意什么问题？怎么避免？
 
 9，什么是面向对象的多态性？
+
 多态性，就是一个父类的引用变量，可以指向其任意一个子类对象。
+
 例如，一个animal类，其子类有cat与dog，然后你创建一个父类animal的引用animalAlpha，然后它可以指向cat的对象cat1，或指向dog的对象dog1。
 
 10，UIViewController的presentViewController和UINavigationController的pushViewController方法分别多用于什么交互场景？
@@ -110,19 +113,26 @@ name
 14，javascript的原型链和OC的继承有什么区别？
 
 15，Hybrid开发的优势在哪里？目前有那些框架可以实现Hybrid开发？
+
 跨平台性，移植成本低,热修复
 
 16，使用了ARC是不是就等于没有内存泄漏了？如果不是的话请举例。
+
 循环引用（Retain Cycle）
+
 Delegate：一定要注意将 delegate 变量声明为weak类型，像这样 
     @property (nonatomic, weak) id delegate;
+
 Block:
     __weak typeof(self)weakself = self;
     self.completionHandler = ^{
         NSLog(@"%@",weakself);
     }
+
 NSTimer:
+
 如果在一个 ViewController 里创建了一个定时器，并且 repeats：值为 YES，一定记得在 pop/dismiss 当前 ViewController 将 timer 设为 invalidate，否则 会造成循环引用，这里要特别需要 注意 的一点是：我们不要在 ViewController 的 dealloc 方法里调用 [timer invalidate]; 因为从来不会调到这里，我们应该在 viewWillDisappear里边调用，像这样：
+
     - (void)viewWillDisappear:(BOOL)animated{
         [super viewWillDisappear:animated];
         if ([self isMovingFromParentViewController]) {
@@ -131,11 +141,13 @@ NSTimer:
     }
 
 17，下面代码中为什么可以直接用self？
+
 [UIView animateWithDuration:1 animations:^{
 self.view.backgroundColor = [UIColor yellowColor];
 }];
 
 下面这段代码可以用self吗？为什么？
+
 - (void)doSomething {
 [BlockClass doSomethingUseBlock:^{
 NSLog(@"%@", self);
@@ -145,9 +157,11 @@ NSLog(@"%@", self);
 像系统UIView动画的block，我们可以直接在block里写self，而不是weakSelf。而自定义的block如果直接使用了self，或者成员变量的话，都会形成强引用，造成内存泄漏。UIView的动画block不会造成循环引用的原因就是，这是个类方法，当前控制器不可能强引用一个类，所以循环无法形成。
 
 18，进程的内存布局是怎样的？
+
 ![](http://oolkmbv7h.bkt.clouddn.com/1164743453630174321.jpg)
 
 19，在GCD中，那几种场景会出现死锁的现象？怎么避免？
+
 第一种情况：代码都是在主线程中，主队列是串行队列，同步添加任务，互相等待造成死锁，用异步解决。
     NSLog(@"=================4");
     dispatch_sync(dispatch_get_main_queue(), ^{ 
@@ -167,12 +181,15 @@ NSLog(@"%@", self);
 24，当一个View的bounds原点不为0的时候会出现什么情况？
 
 1. 它可以修改自己坐标系的原点位置，影响“子view”的显示位置。
+
 2. bounds，它可以通过改变宽高，改变自身的frame，进而影响到再父视图的显示位置和大小。
 
 25，OC的数组是怎么实现的？和C的数组区别在？简单说一下即可。
 
 26，weak和assign有什么区别？
+
 assign 适用于基本数据类型如int,float,struct等值类型，不适用于引用类型。因为值类型会被放入栈中，遵循先进后出原则，由系统负责管理栈内存。而引用类型会被放入堆中，需要我们自己手动管理内存或通过ARC管理。
+
 weak 适用于delegate和block等引用类型，不会导致野指针问题，也不会循环引用，非常安全。
 
 27，setNeedLayout的作用是什么？
