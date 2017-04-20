@@ -7,10 +7,7 @@ keywords: 电影，film
 description:看过的一些电影，记下来有些电影过一段时间还想再看一次。
 ---
 
-
-----
-
-电影资源列表：
+## 电影资源列表：
 
 ftp://ygdy8:ygdy8@y201.dygod.org:1318/[阳光电影www.ygdy8.com].卧底枪手.BD.720p.中英双字幕.rmvb
 
