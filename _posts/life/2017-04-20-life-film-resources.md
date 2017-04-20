@@ -3,8 +3,8 @@ layout: post
 title: 看过的一些电影
 category: 生活
 tags: 电影，film
-keywords: 电影，film
-description:看过的一些电影，记下来有些电影过一段时间还想再看一次。
+keywords: 
+description:
 ---
 
 ## 电影资源列表：
