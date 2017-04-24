@@ -22,8 +22,7 @@ description:
 
 由此看来，国家队的入场呈现了天然优势，不过这也会带来一个问题，寡头垄断的情况下达不到帕累托最优，所以民间独立第三方征信平台的存在很有必要。征信局局长万存知也表示，对于符合监管的个人征信申请机构，央行将积极推进牌照发放工作。
 
->
-
+``` javascript
 adcredit.cn
 aecredit.cn
 afcredit.cn
@@ -222,7 +221,6 @@ zicredit.cn
 zocredit.cn
 zucredit.cn
 zvcredit.cn
-
-
+```
 
 
