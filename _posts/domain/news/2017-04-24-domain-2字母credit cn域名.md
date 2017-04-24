@@ -223,4 +223,29 @@ zucredit.cn
 zvcredit.cn
 ```
 
+2字母开credit结尾可注册的cn域名列表。
+
+```javascript
+
+hvcredit.com
+ivcredit.com
+jocredit.com
+kvcredit.com
+oqcredit.com
+pocredit.com
+vhcredit.com
+vjcredit.com
+vlcredit.com
+vocredit.com
+vpcredit.com
+vqcredit.com
+vucredit.com
+vycredit.com
+vzcredit.com
+xvcredit.com
+yvcredit.com
+zvcredit.com
+
+```
+
 
