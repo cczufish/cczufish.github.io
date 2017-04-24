@@ -16,8 +16,6 @@ description:
 
 [斯坦福大学公开课 ：机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
 
-[机器学习课程-课件打包下载](http://110.96.192.10/1Q2W3E4R5T6Y7U8I9O0P1Z2X3C4V5B/cimg3.163.com/edu/open/ocw/jiqixuexikecheng.zip)
-
 [CS229 Machine Learning Autumn 2016 ](http://cs229.stanford.edu)
 
 [厦门大学大数据实验室](http://dblab.xmu.edu.cn)
@@ -26,6 +24,7 @@ description:
 
 [Machine learning group the university of cambridge](http://mlg.eng.cam.ac.uk)
 
+s
 
 
 
