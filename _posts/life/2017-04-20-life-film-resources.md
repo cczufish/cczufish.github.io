@@ -45,3 +45,13 @@ ftp://dygod1:dygod1@d079.dygod.org:9143/[阳光电影www.ygdy8.com].速度与激
 
 ftp://dygod2:dygod2@d090.dygod.org:1020/速度与激情5.[中英双字.1024分辨率]/[小调网-www.xiaodiao.com]速度与激情5BD中英双字.rmvb
 
+ftp://ygdy8:ygdy8@yg32.dydytt.net:7004/[阳光电影www.ygdy8.com].不眠夜.BD.720p.中英双字幕.mkv
+
+
+ftp://ygdy8:ygdy8@yg32.dydytt.net:8007/[阳光电影www.ygdy8.com].金矿.BD.720p.中英双字幕.mkv
+
+
+ftp://ygdy8:ygdy8@yg32.dydytt.net:7009/[阳光电影www.ygdy8.com].海军陆战队员5：杀戮战场.BD.720p.中英双字幕.mkv
+
+ftp://ygdy8:ygdy8@yg77.dydytt.net:8002/[阳光电影www.ygdy8.com].沙堡.BD.720p.中英双字幕.mkv
+
