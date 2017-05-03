@@ -16,5 +16,7 @@ description:
 之后我就想先不挂号了，因为我不是在社保指定的医院，就这样第一次去医院，第一次看牙结束了。。。最起码了解了看病的基本流程，网上挂号，对应的科室，不能错；最好去医保指定的医院，不能错；哎，赶紧看时间预约我社保指定的医院的口腔外科去了。。。
 
 
+---
+
 <script language="javascript" type="text/javascript" src="//js.users.51.la/19176892.js"></script>
 <noscript><a href="//www.51.la/?19176892" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="//img.users.51.la/19176892.asp" style="border:none" /></a></noscript>
