@@ -34,6 +34,8 @@ URL Schemes 简介
 
 然后加一个button，点击事件
 
+```javascript
+
 - (IBAction)btn:(id)sender
 {
 NSString *url = @"abc://?name=yu";
@@ -45,8 +47,11 @@ NSLog(@"can not open");
 
 }
 
+```
 
 然后回到A_app  在Appdelegate.m中
+
+```javascript
 
 -(BOOL)application:(UIApplication *)application openURL:(nonnull NSURL *)url sourceApplication:(nullable NSString *)sourceApplication annotation:(nonnull id)annotation{
 NSLog(@"sourceApplication: %@",sourceApplication);
@@ -58,6 +63,7 @@ return YES;
 return NO;
 }
 
+```
 
 
 <script language="javascript" type="text/javascript" src="//js.users.51.la/19176892.js"></script>
