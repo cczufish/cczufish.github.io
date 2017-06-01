@@ -21,6 +21,7 @@ UITableView *tableView = [[UITableView alloc] initWithFrame:CGRectMake(0, 0, 320
 tableView.delegate = self; //代理
 tableView.dataSource = self;
 [self.view addSubview:tableView];
+[tableView registerNib:[UINib nibWithNibName:@"CalendarCell" bundle:nil] forCellReuseIdentifier:@"CalendarCell"];
 
 //分割线颜色
 tableView.separatorColor = [UIColor redColor];
