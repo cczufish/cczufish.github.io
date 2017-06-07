@@ -36,6 +36,9 @@ UIImageView* imageView = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 320
 imageView.image = [UIImage imageNamed:@"2_4.jpg"];
 tableView.backgroundView = imageView;
 
+[_calendarTableView setTableHeaderView:self.datepicker];
+self.edgesForExtendedLayout = UIRectEdgeNone;  //tableview设置tableHeaderView 顶部高出20
+
 }
 
 
