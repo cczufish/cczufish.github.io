@@ -55,6 +55,7 @@ ftp://ygdy8:ygdy8@yg32.dydytt.net:7009/[阳光电影www.ygdy8.com].海军陆战�
 
 ftp://ygdy8:ygdy8@yg77.dydytt.net:8002/[阳光电影www.ygdy8.com].沙堡.BD.720p.中英双字幕.mkv
 
+ftp://ygdy8:ygdy8@yg42.dydytt.net:7030/[阳光电影www.ygdy8.com].喜欢你.HD.720p.国语中字.mkv
 
 ---
 
