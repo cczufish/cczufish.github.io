@@ -58,7 +58,7 @@ NameError: name 'true' is not defined
 
 ```
 
-![画一元线性图像][http://www.shareditor.com/uploads/media/my-context/0001/01/9e3f34d0ea66961155a1514a31d0f193707fa5d9.png]
+![画一元线性图像](http://www.shareditor.com/uploads/media/my-context/0001/01/9e3f34d0ea66961155a1514a31d0f193707fa5d9.png)
 ---
 
 预测和作图两部分结合
@@ -96,7 +96,7 @@ LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)
 >>> plt.show()
 
 ```
-![画一元线性图像][http://www.shareditor.com/uploads/media/my-context/0001/01/5817c1dfb64abacc3811b88ec69931bdd8ff85fc.png]
+![画一元线性图像](http://www.shareditor.com/uploads/media/my-context/0001/01/5817c1dfb64abacc3811b88ec69931bdd8ff85fc.png)
 
 
 
