@@ -39,6 +39,13 @@ tableView.backgroundView = imageView;
 [_calendarTableView setTableHeaderView:self.datepicker];
 self.edgesForExtendedLayout = UIRectEdgeNone;  //tableview设置tableHeaderView 顶部高出20
 
+UIImageView *imageView = [[UIImageView alloc]initWithImage:[UIImage imageNamed:@"选择题"]];
+
+self.listTable.backgroundView = imageView;
+self.listTable.userInteractionEnabled = NO;
+
+
+
 }
 
 
