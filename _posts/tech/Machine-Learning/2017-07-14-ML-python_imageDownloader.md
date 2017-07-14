@@ -9,7 +9,7 @@ description:
 http://www.jianshu.com/p/19c846daccb3
 
 
-用这个下载了好多表情包。。。。。。。
+用这个下载了好多表情包。。。。。。。  先下载了300个表情包。。。。。 网盘地址  http://pan.baidu.com/s/1pKTKkGz
 
 ```javascript
 
