@@ -10,6 +10,40 @@ description:
 
 在看见这个新闻之后我就查询了2字母开credit结尾可注册的cn域名列表。
 
+miluntan.com 米论坛 
+yingyongjia.com.cn 应用家 
+daonamei.cn 到哪美 
+jiuxiantuan.cn 酒仙团 终端 
+ewmpay.com 二维码支付 
+huangbaoche.cn 黄包车 皇包车
+lanbaoxian.cn 懒保险 
+mangguotv.com.cn 芒果TV 
+hellochinese.com.cn 
+llwallet.cn 连连支付 
+daomangquan.cn 导盲犬 
+chuangtouying.com.cn 创投营 
+jichuangying.cn 极创营 
+zaomengfang.cn 造梦坊 
+jiehunxian.com 结婚险 
+chuangjiangsuo.cn 创讲所
+nongtianfang.cn 农田坊 
+jubenhui.cn 剧本汇 
+weilaifan.cn 未来范 
+yinyuebiji.cn 音乐笔记
+beiguoxia.cn 背锅侠 
+leweilai.cn乐未来
+farenku.com法人库
+liunaer.cn留哪儿
+duanneirong.com短内容
+shankaipiao.com 闪开票
+xinwenchaomi.com 新闻超秘
+zhongchouxian.com 众筹险
+pigai.wang 批改网 
+xuebajun.com.cn 学霸君 
+yunzhengbao.cn云证保
+yunzhaobao.com云招宝
+chengzhangbao.cn 成长保
+
 国家级征信平台“新华征信”将在年内推出
 
 据悉，中国经济信息社董事长、总裁徐玉长4月20日在 “首届亚洲信用评级机构CEO峰会暨系统性风险国际研讨会”上透露，16年底，中国经济信息社与国家发改委财金司签署了《合作推进社会信用体系建设框架协议》，今年2月新华社正式加入国务院社会信用体系建设部际联席会议，国家级征信平台“新华征信”项目的建设工作也随之展开，并将在年内推出。
