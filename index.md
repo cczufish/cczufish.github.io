@@ -6,7 +6,7 @@ title: Welcome
 ## 此博客的说明
 ----
 
-我从12年的时候，就开始学习开发ios程序，当时开通了github，v2ex等网站，平时也上很多的技术网站，看别人的技术博客，一直想着搞一个博客。今天下午就在github上搜了一下，fork了 [coolnameismy](https://github.com/coolnameismy/coolnameismy.github.io)的博客源码，然后就有了现在的博客。
+我从12年的时候，就开始学习开发ios程序，当时注册了github，v2ex等网站，平时也上很多的技术网站，看别人的技术博客，一直想着搞一个博客。今天下午就在github上搜了一下，fork了 [coolnameismy](https://github.com/coolnameismy/coolnameismy.github.io)的博客源码，然后就有了现在的博客。
 
 从13年6月大学毕业来北京，前前后后换了几个公司都在做ios开发，在线教育、新闻资讯、o2o、拼车、收废品等等项目都干过，业余时间也做过外包，参与过一个创业项目二次元的app，做的多了，反而浪费了很多的时间，ios技术上方方面面，说起来都知道，但是都没有花太多时间去深入的学习，这个项目用到了就去学，用完了就丢，也没及时的去总结。所以说这个博客不会专门写什么ios技术的，顶多会记录工作中遇到的问题。
 
