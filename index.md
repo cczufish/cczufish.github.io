@@ -3,7 +3,7 @@ layout: post
 title: Welcome
 ---
 
-## 此博客的说明
+## 此博客的说明 : 买域名加qq：66364365 或者 718780261
 ----
 
 我从12年的时候，就开始学习开发ios程序，当时注册了github，v2ex等网站，平时也上很多的技术网站，看别人的技术博客，一直想着搞一个博客。今天下午就在github上搜了一下，fork了 [coolnameismy](https://github.com/coolnameismy/coolnameismy.github.io)的博客源码，然后就有了现在的博客。
