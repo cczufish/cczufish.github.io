@@ -1,22 +1,24 @@
 ---
 layout: post
-title:（转）测试AVFoundation框架 AVCapture 视频,音频采集功能
+title: 在线班课1v1和1v6
 category: iOS
 tags: iOS, Alcatraz，os x,CGContextRef
 description:
 ---
 
+成长保  https://www.czbapp.com/home
 
-https://github.com/wait10000y/testAVAudioSession
+久趣英语 http://www.97kid.com     http://www.qkids.cn
 
-
-https://github.com/jessonliu/JFCollectVideoAndAudioData
-
-
-```
+sayabc
 
 
 
+平台
+
+classin  http://www.eeo.cn
+
+多贝   http://www.duobei.com
 
 
 
