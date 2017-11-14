@@ -12,6 +12,8 @@ description:
 
 sayabc
 
+http://www.51hawo.com
+
 
 
 平台
@@ -19,6 +21,16 @@ sayabc
 classin  http://www.eeo.cn
 
 多贝   http://www.duobei.com
+
+cc视频 http://www.bokecc.com
+
+网易云信  http://netease.im/im-sdk-demo?solutionType=0#solution
+
+声网 https://www.agora.io
+
+展视互动 http://www.gensee.com
+
+
 
 
 
