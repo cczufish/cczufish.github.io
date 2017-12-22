@@ -94,6 +94,28 @@ We have started the review of your app, but we are not able to continue because 
 
 
 
+12月22日
+
+Guideline 3.1.1 - Business - Payments - In-App Purchase
+
+
+We noticed that your app provides access to external payment mechanisms for purchases or subscriptions to be used in the app, which is not appropriate for the App Store.
+
+Specifically, we found that your app allows users to access content that is paid outside of the app.
+
+Next Steps
+
+To resolve this issue, please remove any external payment mechanisms from this app. If you feel that we have misunderstood how your app uses this payment mechanism, please respond to this message and explain what users are able to purchase via this payment mechanism and how we can locate the purchases in your app.
+
+
+您好，感谢您审核我们的应用程序：
+
+我们的app主要是专注于4-12岁孩子数学思维的开发和培养，孩子和老师是一对一和一对六在线直播的方式上课的，上课是在家长的监护陪同时进行的。家长通过线下报名付费， 因为作为一家在线教育公司提供教学服务，我们只需要我们的客户在我们的应用程序中上课。用户支付在教学过程中产生的人工成本和教学教研成本，并不会购买仅在APP中需要的信息，所以没有内购的场景。
+
+
+
+
+
 
 <script language="javascript" type="text/javascript" src="//js.users.51.la/19176892.js"></script>
 <noscript><a href="//www.51.la/?19176892" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="//img.users.51.la/19176892.asp" style="border:none" /></a></noscript>
