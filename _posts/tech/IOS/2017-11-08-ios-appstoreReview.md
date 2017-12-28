@@ -112,6 +112,26 @@ To resolve this issue, please remove any external payment mechanisms from this a
 
 我们的app主要是专注于4-12岁孩子数学思维的开发和培养，孩子和老师是一对一和一对六在线直播的方式上课的，上课是在家长的监护陪同时进行的。家长通过线下报名付费， 因为作为一家在线教育公司提供教学服务，我们只需要我们的客户在我们的应用程序中上课。用户支付在教学过程中产生的人工成本和教学教研成本，并不会购买仅在APP中需要的信息，所以没有内购的场景。
 
+12月23日。。。。
+
+Hello,
+
+Thank you for your response.
+
+Regarding the 3.1.1 issue, it would be appropriate to implement in-app purchase.
+
+We look forward to your resubmission.
+
+Best regards,
+
+TestFlight Beta Review
+
+
+12月28日
+
+您好：
+
+我们的app是给学生上课用的，没有应用内支付，学生通过线下购买充值卡，卡里包含上课使用的次数，这个钱都支付给了老师，我们的场景不符合苹果要求内购的任何一个条款，在中国很多这样的公司都在做类似的业务，比如说51talk.com,vipkid.com.cn等等都是在做的在线教育，他们的app审核也没有走内购。麻烦您再看看审核的标准。
 
 
 

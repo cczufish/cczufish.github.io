@@ -157,6 +157,86 @@ service mysqld restart
 9.再进去mysql查看编码会发都变成了utf8，除了character_set_filesystem 是binary 。这个不用我解释是为什么了。
 
 
+
+Mac安装MySQL初始密码设置  http://blog.csdn.net/arlenliugj/article/details/50700249
+
+step1：
+苹果->系统偏好设置->最下边点mysql 在弹出页面中 关闭mysql服务（点击stop mysql server）
+
+step2：
+进入终端输入：cd /usr/local/mysql/bin/
+回车后 登录管理员权限 sudo su
+回车后输入以下命令来禁止mysql验证功能 ./mysqld_safe --skip-grant-tables &
+回车后mysql会自动重启（偏好设置中mysql的状态会变成running）
+
+step3.
+输入命令 ./mysql
+回车后，输入命令 FLUSH PRIVILEGES;
+回车后，输入命令 SET PASSWORD FOR 'root'@'localhost' = PASSWORD('你的新密码');
+至此，密码修改完成，可以成功登陆。
+
+
+
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| sys                |
++--------------------+
+4 rows in set (0.01 sec)
+
+
+mysql> use mysql;
+Reading table information for completion of table and column names
+You can turn off this feature to get a quicker startup with -A
+
+Database changed
+mysql> show tables;
++---------------------------+
+| Tables_in_mysql           |
++---------------------------+
+| columns_priv              |
+| db                        |
+| engine_cost               |
+| event                     |
+| func                      |
+| general_log               |
+| gtid_executed             |
+| help_category             |
+| help_keyword              |
+| help_relation             |
+| help_topic                |
+| innodb_index_stats        |
+| innodb_table_stats        |
+| ndb_binlog_index          |
+| plugin                    |
+| proc                      |
+| procs_priv                |
+| proxies_priv              |
+| server_cost               |
+| servers                   |
+| slave_master_info         |
+| slave_relay_log_info      |
+| slave_worker_info         |
+| slow_log                  |
+| tables_priv               |
+| time_zone                 |
+| time_zone_leap_second     |
+| time_zone_name            |
+| time_zone_transition      |
+| time_zone_transition_type |
+| user                      |
++---------------------------+
+31 rows in set (0.00 sec)
+
+
+
+ 
+
 ```
 
 ---
