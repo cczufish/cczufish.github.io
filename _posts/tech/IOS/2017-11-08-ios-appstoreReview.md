@@ -137,6 +137,49 @@ TestFlight Beta Review
 审核通过了，xcode9.2打包的程序在ios8上有bug。。。。。。。
 
 
+1月10日
+
+2018年1月11日 上午3:08
+发件人 Apple
+3. 1.1 Business: Payments - In-App Purchase
+Guideline 3.1.1 - Business - Payments - In-App Purchase
+
+
+We noticed that your app or its metadata enables the purchase of content, services, or functionality in the app by means other than the in-app purchase API, which is not appropriate for the App Store.
+
+Specifically, your app allows users to access content that is paid outside of the app.
+
+The next submission of this app may require a longer review time, and this app will not be eligible for an expedited review until this issue is resolved.
+
+Next Steps
+
+- Review the In-App Purchase section of the App Store Review Guidelines.
+- Ensure your app is compliant with all sections of the App Store Review Guidelines and the Terms & Conditions of the Apple Developer Program.
+- Once your app is fully compliant, resubmit your app for review.
+
+If you believe your app is compliant with the App Store Review Guidelines, you may submit an appeal. Alternatively, you may provide additional details about your app by replying directly to this message.
+
+In-App Purchase
+
+It may be appropriate to revise your app to use the in-app purchase API to provide content purchasing functionality.
+
+In-app purchase provides several benefits, including:
+
+- The flexibility to support a variety of business models.
+- Impacting your app ranking by consolidating your sales to one app rather than distributing them across multiple apps.
+- An effective marketing vehicle to drive additional sales of new content.
+
+For information on in-app purchase, please refer to the following documentation:
+
+In-App Purchase for Developers
+
+In-App Purchase Programming Guide
+
+For step-by-step instructions on in-app purchase creation within iTunes Connect, refer to In-App Purchase for Developers.
+
+
+我们的app主要是专注于4-12岁孩子数学思维的开发和培养，孩子和老师是一对一和一对六在线直播的方式上课的，上课是在家长的监护陪同时进行的。 因为作为一家在线教育公司提供教学服务，我们只需要我们的客户在我们的应用程序中上课，并不会购买仅在APP中需要的信息，所以没有内购的场景。 老师端可以随时进入教室，学生端会在课前10分钟才能进入教室，图中的倒计时代表离上课还有多少时间，您当前的时间是11:03am，课程开始时间是15:00pm，距离上课时间还有3:57:33，课前学生可以通过预习了解上课内容，当时间到了14:50学生就可以进入教室了，不需要支付。
+
 
 
 <script language="javascript" type="text/javascript" src="//js.users.51.la/19176892.js"></script>
