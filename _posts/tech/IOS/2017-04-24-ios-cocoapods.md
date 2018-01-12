@@ -82,6 +82,9 @@ OS X 10.12上安装CocoaPods
 解决办法：在Podfile中 加入 platform :ios, ‘8.0’
 
 
+pod search 'nimsdk' 不到最新的版本，执行 pod repo update 就可以了
+
+
 
 
 
