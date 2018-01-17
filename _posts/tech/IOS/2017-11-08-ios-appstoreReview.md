@@ -182,6 +182,13 @@ For step-by-step instructions on in-app purchase creation within iTunes Connect,
 
 
 
+3.1.3 “Reader” Apps: Apps may allow a user to access previously purchased content or content subscriptions (specifically: magazines, newspapers, books, audio, music, video, access to professional databases, VoIP, cloud storage, and approved services such as educational apps that manage student grades and schedules), as well as consumable items in multi-platform games, provided that you agree not to directly or indirectly target iOS users to use a purchasing method other than in-app purchase, and your general communications about other purchasing methods are not designed to discourage use of in-app purchase.
+
+https://developer.apple.com/app-store/review/guidelines/#content-based-reader-apps
+
+
+
+
 <script language="javascript" type="text/javascript" src="//js.users.51.la/19176892.js"></script>
 <noscript><a href="//www.51.la/?19176892" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="//img.users.51.la/19176892.asp" style="border:none" /></a></noscript>
 
