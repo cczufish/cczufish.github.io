@@ -187,6 +187,25 @@ For step-by-step instructions on in-app purchase creation within iTunes Connect,
 https://developer.apple.com/app-store/review/guidelines/#content-based-reader-apps
 
 
+2018年1月18日 上午4:56
+发件人 Apple
+*         3. 1.1 Business: Payments - In-App Purchase
+Hello,
+
+Thank you for your response. In regards of the 3.1.1 rejection, we found that your app allows user to purchase classes by means other than the in-app purchase API, which is not appropriate for the App Store. It would be appropriate to implement in-app purchase for the one to many classes before resubmitting for review.
+
+We hope you can make the necessary revision and we look forward to review your app again.
+
+Best regards,
+
+TestFlight Beta Review
+
+
+http://a1194.phobos.apple.com/us/r30/Purple128/v4/d2/5d/a1/d25da10b-46fc-9b25-8edf-2e5ca104dcc9/attachment-25867357965228491302749638fe489817e963d21f8aac87c8f.png?downloadKey3=1516440184_56abe507de65b9e6f5fc8fde8298c72e
+
+
+
+
 
 
 <script language="javascript" type="text/javascript" src="//js.users.51.la/19176892.js"></script>
