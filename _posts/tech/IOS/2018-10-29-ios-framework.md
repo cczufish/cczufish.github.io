@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  iOS 开发面试问题
+title: SDK开发基础-Framework制作,静态库.a开发
 category: iOS
 tags: iOS, Alcatraz，os x,CGContextRef
 description:
@@ -9,19 +9,8 @@ description:
 
 ```javascript
 
-https://github.com/lzyy/iOS-Developer-Interview-Questions
-
-https://github.com/MisterBooo/ReadyForBAT
-
-https://blog.csdn.net/xiaoxiaocode/article/details/80780377
-
-https://xiaozhuanlan.com/ios-interview/3250187694
-
-https://juejin.im/post/5a9563b26fb9a0633531d92f
-
-https://juejin.im/post/5a961028f265da4e7832caf7
-
-
+https://www.jianshu.com/p/a30a2e01190d
+http://www.th7.cn/Program/IOS/201408/271733.shtml
 
 ```
 
