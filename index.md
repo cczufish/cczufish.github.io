@@ -20,7 +20,7 @@ title: Welcome
 除此之外是一个域名投资者，手边大量行业域名，有意来谈，谢谢！！！
 
 ---
-
+<script type="text/javascript" src="//js.users.51.la/19729201.js"></script>
 
 <script language="javascript" type="text/javascript" src="//js.users.51.la/19176892.js"></script>
 <noscript><a href="//www.51.la/?19176892" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="//img.users.51.la/19176892.asp" style="border:none" /></a></noscript>
