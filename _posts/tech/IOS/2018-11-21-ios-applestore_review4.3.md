@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tabbar_lottie动画
+title: 苹果应用审核出现2.1，4.3的上架经验、马甲包
 category: 技术
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
@@ -8,13 +8,19 @@ description:
 
 ```javascript
 
-https://github.com/paperclouds/LottieTabBar/tree/master/LottieTabBar
+https://www.jianshu.com/p/800519a3c1ab
 
-https://www.jianshu.com/p/9a3de02f9ada
+https://www.jianshu.com/p/37db5b67704a
 
-https://github.com/eggswift/ESTabBarController
+http://www.cocoachina.com/appstore/20181105/25372.html
 
-https://github.com/ChenYilong/CYLTabBarController
+http://www.cocoachina.com/ios/20180907/24825.html
+
+http://www.cocoachina.com/ios/20180516/23392.html
+
+http://www.cocoachina.com/apple/20170814/20231.html
+
+
 
 
 ```

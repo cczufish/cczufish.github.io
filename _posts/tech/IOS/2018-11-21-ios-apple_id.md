@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tabbar_lottie动画
+title: iOS-申请邓白氏编码的超详细流程介绍,电话，邮件
 category: 技术
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
@@ -8,13 +8,9 @@ description:
 
 ```javascript
 
-https://github.com/paperclouds/LottieTabBar/tree/master/LottieTabBar
+https://www.cnblogs.com/oc-bowen/p/6179251.html
 
-https://www.jianshu.com/p/9a3de02f9ada
-
-https://github.com/eggswift/ESTabBarController
-
-https://github.com/ChenYilong/CYLTabBarController
+http://www.cocoachina.com/bbs/read.php?tid=311882
 
 
 ```

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tabbar_lottie动画
+title: xcode修改工程名，类名
 category: 技术
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
@@ -8,13 +8,10 @@ description:
 
 ```javascript
 
-https://github.com/paperclouds/LottieTabBar/tree/master/LottieTabBar
+https://blog.csdn.net/qq_23292307/article/details/80915654
 
-https://www.jianshu.com/p/9a3de02f9ada
+https://www.cnblogs.com/jiayongqiang/p/5458292.html
 
-https://github.com/eggswift/ESTabBarController
-
-https://github.com/ChenYilong/CYLTabBarController
 
 
 ```
