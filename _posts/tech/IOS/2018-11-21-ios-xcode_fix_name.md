@@ -1,7 +1,7 @@
 ---
 layout: post
 title: xcode修改工程名，类名
-category: 技术
+category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---

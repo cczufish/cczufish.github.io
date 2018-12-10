@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS-申请邓白氏编码的超详细流程介绍,电话，邮件
-category: 技术
+category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---

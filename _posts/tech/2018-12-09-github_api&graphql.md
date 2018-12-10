@@ -1,19 +1,13 @@
 ---
 layout: post
-title:[iOS] gitignore 忽略上传pods/cocoaPods 文件
+title: Introduction to GraphQL,github api
 category: 技术
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---
 
-```javascript
 
-https://www.jianshu.com/p/4ed175f13e97
-
-CocoaPods安装和使用教程（http://www.code4app.com/article/cocoapods-install-usage）
-
-基于Jenkins的CocoaPods化iOS项目构建＋蒲公英/FIR系统发布  (https://www.jianshu.com/p/62b5ff147dac)
-
+https://developer.github.com
 
 
 
