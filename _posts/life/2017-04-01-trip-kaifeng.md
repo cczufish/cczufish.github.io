@@ -2,7 +2,7 @@
 layout: post
 title: 开封4天旅行小记
 subtitle: 
-category: 旅行
+category: 生活
 tags: 开封 , 旅行
 keywords: 
 description:
