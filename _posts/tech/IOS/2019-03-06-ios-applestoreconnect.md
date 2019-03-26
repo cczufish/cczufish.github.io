@@ -31,6 +31,12 @@ iOS 提交应用到 APP Store 因包含微信和支付宝支付被拒?
 https://www.jianshu.com/p/1bc18ccb9c90
 
 
+https://blog.csdn.net/h_o_w_e/article/details/86622997
+
+苹果内购添加对公银行卡信息，提示账户持有人姓名无效的问题
+
+
+
 ```
 
 
