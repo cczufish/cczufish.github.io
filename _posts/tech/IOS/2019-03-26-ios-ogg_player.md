@@ -1,6 +1,6 @@
 ---
 layout: post
-title:ios 播放ogg格式音频
+title: ios 播放ogg格式音频
 category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 

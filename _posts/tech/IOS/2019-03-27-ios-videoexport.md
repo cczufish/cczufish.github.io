@@ -1,6 +1,6 @@
 ---
 layout: post
-title:ios 获取本地视频角度rotaion信息、方向修正，视频转码压缩 
+title: ios 获取本地视频角度rotaion信息、方向修正，视频转码压缩 
 category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
