@@ -8,6 +8,10 @@ description:
 
 ```javascript
 
+https://www.jianshu.com/p/0dc9b5be9840
+
+
+
 post 请求 body 数据被清空
 
 由于 WKWebView 在独立进程里执行网络请求。一旦注册 http(s) scheme 后，网络请求将从 Network Process 发送到 App Process，这样 NSURLProtocol 才能拦截网络请求。在 webkit2 的设计里使用 MessageQueue 进行进程之间的通信，Network Process 会将请求 encode 成一个 Message,然后通过 IPC 发送给 App Process。出于性能的原因，encode 的时候 HTTPBody 和 HTTPBodyStream 这两个字段被丢弃掉了(参考苹果源码： 
