@@ -1,6 +1,6 @@
 ---
 layout: post
-title:北京大学 libpku - 贵校课程资料民间整理
+title: 北京大学 libpku - 贵校课程资料民间整理
 category: 生活
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:2019年高新区义务教育公办学校学区划分(小学+初中)
+title: 2019年高新区义务教育公办学校学区划分(小学+初中)
 category: 生活
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 

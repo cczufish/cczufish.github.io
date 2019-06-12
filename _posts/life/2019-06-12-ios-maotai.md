@@ -1,6 +1,6 @@
 ---
 layout: post
-title:茅台 飞天 2016年出厂 酱香型白酒 53度 500ml单瓶装 2488
+title: 茅台 飞天 2016年出厂 酱香型白酒 53度 500ml单瓶装 2488
 category: 生活
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 

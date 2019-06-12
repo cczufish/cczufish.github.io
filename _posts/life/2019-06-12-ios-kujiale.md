@@ -1,6 +1,6 @@
 ---
 layout: post
-title:酷家乐装修设计
+title: 酷家乐装修设计
 category: 生活
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 

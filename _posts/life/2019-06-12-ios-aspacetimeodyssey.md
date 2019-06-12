@@ -1,6 +1,6 @@
 ---
 layout: post
-title:国家地理频道纪录片：宇宙时空之旅
+title: 国家地理频道纪录片：宇宙时空之旅
 category: 生活
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
