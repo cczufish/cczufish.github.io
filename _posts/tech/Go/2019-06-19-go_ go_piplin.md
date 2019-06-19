@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Go语言graphql Demo程序
+title: piplin — 免费、开源的持续集成与部署系统
 category: Go
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
@@ -9,9 +9,7 @@ description:
 
 ```javascript
 
-https://github.com/99designs/gqlgen/tree/master/example
-
-https://gqlgen.com
+http://piplin.com
 
 
 ```
