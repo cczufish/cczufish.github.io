@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Go语言graphql Demo程序,使用gqlgen构建GraphQL服务
-category: Go
+title: 微信小程序
+category: Flutter
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---
@@ -9,13 +9,12 @@ description:
 
 ```javascript
 
-https://github.com/99designs/gqlgen/tree/master/example
+http://www.wxappclub.com/column/23
 
-https://gqlgen.com
+https://www.jianshu.com/p/5ff074d79f65
 
-使用gqlgen构建GraphQL服务
+http://www.jisuapp.cn/make/
 
-https://blog.csdn.net/liuyh73/article/details/85028977
 
 ```
 

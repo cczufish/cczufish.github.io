@@ -1,23 +1,26 @@
 ---
 layout: post
-title: Go语言graphql Demo程序,使用gqlgen构建GraphQL服务
-category: Go
+title: 北京公租房
+category: 生活
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---
 
-
 ```javascript
 
-https://github.com/99designs/gqlgen/tree/master/example
+http://bj.bendibao.com/zffw/2017926/244906.shtm
 
-https://gqlgen.com
 
-使用gqlgen构建GraphQL服务
+http://www.qianggen.net/2018/0820/59823.html
 
-https://blog.csdn.net/liuyh73/article/details/85028977
+
+https://mp.weixin.qq.com/s/jqCw8fv-ANWvMpc7k2Ka-Q?
+
+
 
 ```
+
+
 
 ---
 

@@ -1,23 +1,30 @@
 ---
 layout: post
-title: Go语言graphql Demo程序,使用gqlgen构建GraphQL服务
-category: Go
+title: 七麦数据-下架应用监控
+category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---
 
-
 ```javascript
 
-https://github.com/99designs/gqlgen/tree/master/example
+https://www.qimai.cn/rank/offline
 
-https://gqlgen.com
 
-使用gqlgen构建GraphQL服务
+ios appstore实时榜单
 
-https://blog.csdn.net/liuyh73/article/details/85028977
+https://www.qimai.cn/rank
+
+
+android 实时榜单
+
+https://www.qimai.cn/rank/marketRank
+
+
 
 ```
+
+
 
 ---
 
