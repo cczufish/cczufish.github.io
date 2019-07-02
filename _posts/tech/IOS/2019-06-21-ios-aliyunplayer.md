@@ -50,6 +50,12 @@ func vodPlayer(_ vodPlayer: AliyunVodPlayer!, playBack errorModel: AliyunPlayerV
 
 
 
+ https://help.aliyun.com/knowledge_detail/38980.html?spm=5176.11065259.1996646101.searchclickresult.4c461ec0IoFwu1
+ 
+ 媒体转码后的视频播放时没有图像
+ 
+ 如果媒体转码后的视频播放时没有图像，请检查转码时是否是采用了h.265编码方式。目前MAC、IOS、安卓等设备一般采用Html5的播放方式，这种方式不支持h.265的编码方式，如果有在上述设备上播放的需求，请改为使用h.264的编码方式进行转码。
+ 
  
  
 
