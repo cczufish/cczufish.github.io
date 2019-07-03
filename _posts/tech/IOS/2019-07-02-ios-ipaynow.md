@@ -1,15 +1,17 @@
 ---
 layout: post
-title: 专为小白而写的GitHub快速入门教程
-category: 技术
+title: ipaynow现在支付
+category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---
 
-https://www.ui.cn/detail/20957.html
+```javascript
 
+https://ipaynow.cn/sdk
 
-https://help.github.com/cn
+接入过ios端的现在支付 h5支付和原生支付
+
 
 
 ```
