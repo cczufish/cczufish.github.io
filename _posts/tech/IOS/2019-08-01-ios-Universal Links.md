@@ -20,6 +20,18 @@ http://www.mob.com/mobService/moblink
 https://www.jianshu.com/p/ffdd1722f669
 
 
+wap 唤起App 的两种方式Schema & Universal Link
+
+https://blog.csdn.net/njxw1108/article/details/87093262
+
+
+https://linkm.lianjia.com/apple-app-site-association
+
+
+https://oia.zhihu.com/apple-app-site-association
+
+http://free.3v.do/
+
 
 ```
 

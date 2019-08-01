@@ -10,7 +10,11 @@ description:
 
 https://open.unionpay.com/tjweb/solution/list
  
- 
+ 银联支付可以调起网页 ，付款提示 无效商户1000003
+ https://open.unionpay.com/ajweb/help/respCode/detail?id=954 银联官网又这个应答码
+
+https://res-mop.chinaums.com/images/doc/接口文档/全民付移动支付APP综合支付.zip
+
 
 ```
 
