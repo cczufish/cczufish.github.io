@@ -16,6 +16,20 @@ https://developer.apple.com/library/archive/documentation/FileManagement/Concept
 
 
 
+简单易用且功能丰富的纯Swift下载框架
+改下载目录
+
+https://github.com/Danie1s/Tiercel#文件校验
+
+// 下载模块的目录路径
+public let downloadPath: String
+
+// 没有完成的下载文件缓存的目录路径
+public let downloadTmpPath: String
+
+// 下载完成的文件的目录路径
+public let downloadFilePath: String
+
 
 
 ```
