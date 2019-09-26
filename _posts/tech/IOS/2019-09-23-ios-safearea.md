@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Linux安全之SSH 密钥创建及密钥登录
-category: 技术
+title: 关于Safe Area
+category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---
-https://blog.csdn.net/nahancy/article/details/79059135
+
+```javascript
+
+https://www.jianshu.com/p/72066d61f38e
+ 
 ```
-
-
-SSH原理与运用（一）：远程登录
-
-http://www.ruanyifeng.com/blog/2011/12/ssh_remote_login.html
 
 
 
