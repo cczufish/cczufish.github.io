@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS沙盒路径会变化
+title: iOS证书签名机制&重签名&防止重签名
 category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
@@ -8,8 +8,7 @@ description:
 
 ```javascript
 
-https://www.jianshu.com/p/16b5ddd81f99
-
+https://juejin.im/post/5de4acc7518825766e7a8489
 
 ```
 
