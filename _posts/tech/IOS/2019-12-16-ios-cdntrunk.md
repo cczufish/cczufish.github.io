@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDN: trunk Repo update failed
+title:  CDN trunk Repo update failed
 category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 

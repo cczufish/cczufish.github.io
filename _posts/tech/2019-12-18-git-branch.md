@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Git合并指定文件到另一个分支
+title: Git合并指定文件到另一个分支
 category: 技术
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 

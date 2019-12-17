@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SwiftLint的集成和使用
+title: swiftLint的集成和使用
 category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
