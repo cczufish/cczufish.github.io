@@ -1,18 +1,18 @@
 ---
 layout: post
-title: 如何事半功倍的学算法
-category: 技术
+title: 应用内网发布类似于fir.im
+category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
 ---
-https://blog.csdn.net/nahancy/article/details/79059135
+
+```javascript
+
+https://github.com/pluosi/app-host
+
+
+
 ```
-
-https://www.youtube.com/watch?v=pUxkQ0Itsho&list=PLyIjPezcZJNNcmV2N3ZSypT00t7o2oSS-&index=21
-
-
-https://github.com/raywenderlich/swift-algorithm-club
-
 
 
 
