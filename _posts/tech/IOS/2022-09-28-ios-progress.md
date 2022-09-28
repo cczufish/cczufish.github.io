@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  区间进度条 
+title:  区间进度条、Step-by-step progress
 category: iOS
 tags: centos,ftp,Apache,GPL,LGPL,MIT
 description: 
@@ -15,6 +15,8 @@ https://github.com/minjoongkim/MJProgressView
             
               mlProgress = MJProgressView.init(frame: CGRect(x: 20, y: 0, width: kScreenWidth - 34 - 42, height: 3), progressCount: 2, color: [ColorConst.color_df,UIColor.hexStringColor(hex: "#4C4A66")])
         contentView.addSubview(mlProgress)
+        
+        https://github.com/yonat/StepProgressView
 
 ```
 
