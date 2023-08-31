@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AR Quick Look
-category: Machine-Learning
+category: AR
 tags: python,ML,Numpy,Machine-learning,KNN
 description: 
 ---
